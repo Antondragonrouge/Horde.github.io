@@ -1,0 +1,112 @@
+!DOCTYPE html
+!-- saved from url=(0053)httpmordhau.s3-website.eu-central-1.amazonaws.com --
+html lang=en dir=ltrlink type=textcss rel=stylesheet id=dark-mode-custom-linklink type=textcss rel=stylesheet id=dark-mode-general-linkstyle lang=en type=textcss id=dark-mode-custom-stylestylestyle lang=en type=textcss id=dark-mode-native-stylestyleheadmeta http-equiv=Content-Type content=texthtml; charset=UTF-8
+    
+    titleLes Chevaliers du Dragontitle
+    style type=textcss
+      body{
+        displayflex;
+        flex1;
+        width100%;
+
+        overflow-xhidden;
+        padding-top25px;
+        font-family Rubik, sans-serif;
+        overflow hidden;
+        -webkit-font-smoothing antialiased;
+        -moz-osx-font-smoothing grayscale;
+        background rgb(0, 0, 0);
+background linear-gradient(90deg, rgb(70, 6, 6) 0%, rgb(70, 6, 6) 41%, rgb(0, 0, 0) 60%, rgb(0, 0, 0) 100%);
+
+      }
+
+
+
+      .container{
+        displayflex;
+        flex1;
+        flex-directioncolumn;
+        justify-contentcenter;
+        align-itemscenter;
+        padding-top10px;
+
+      }
+
+      .text{
+        displayflex;
+        width80%;
+        height100%;
+        justify-content center;
+        font-size18px;
+        text-aligncenter;
+         margin-top10px; 
+         margin-bottom50px; 
+        font-family 'Rubik', sans-serif;
+        letter-spacing 1px;
+          line-height 1.2;
+           border4px solid #7289DA; 
+           border8px solid #2E3192; 
+          border6px solid #23272A;
+          background#4d0707;
+          border-radius4px;
+           backgroundrgba(153, 163, 198, 1); 
+           backgroundwhite; 
+          colorwhite;
+          padding5px;
+          flex-direction column;
+          align-items center;
+      }
+
+      .invite{
+        displayflex;
+        justify-contentcenter;
+        align-itemscenter;
+
+      }
+
+
+style
+link rel=preconnect href=httpsfonts.gstatic.com
+link href=.The Galactic Bois_filescss2 rel=stylesheet
+  head
+  body
+
+    div class=container
+
+
+
+    div class=text
+        img style=width200px src=dragon.png
+    p  b style=font-size22pxBienvenue sur le serveur  Les chevaliers du Dragon.bbrbr
+      Rejoignez notre discord pour découvrir notre communauté !brbr
+
+
+      bRulesbbr
+      - Le serveur Deathmatch est un serveur de Duel et d’Arène, il est donc interdit de ffa,de ffa en masse et de se venger après une ffa.br
+      - Vous ne pouvez pas forcer ni provoquer un autre joueur à engager un duel.br
+      - Pour tout débordement ou autres abus,veuillez signalez le nom de la personne et dire « ffa » dans le chat pour qu’un modérateur s’en occupe.br
+      - Les armes à distance et de jets sont interdits. Leur utilisation entraînera des sanctions.br
+      - Les balistes ne sont pas autorisés.br
+      - Si vous souhaitez construire une Arène et la diriger, vous devez porter une tenue d’arbitre.br
+      - Si l’arbitre vous ordonne quoi que ce soit dans l’arène, vous devez lui obéir. Dans le cas contraire, il l’aura l’autorisation d’utiliser la force.br
+      - Il est interdit de ffa dans la file d’attente.br
+      - Allez-y doucement avec les joueurs de bas niveau et donnez-leur des conseils.brbr
+
+
+
+      Amusez vous bien !!brbr
+
+            a href=httpsdiscord.gguZ4tAuByGKimg style=width30%; margin 0 auto; displayflex; src=Discord-Logo.pnga
+      p
+      div
+
+!-- div class=invite
+    a href=httpsdiscord.gguZ4tAuByGKimg style=width40%; margin 0 auto; displayflex; src=
+      a
+div --
+      div
+
+
+  
+
+bodyhtml
